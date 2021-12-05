@@ -17,7 +17,7 @@ Link : https://t.me/tutorialmas/3 """
 - Source - Its Closed Project  
 
 <b>DEVS:</b>
-- <a href=https://t.me/dalesteyn>Team Mas</a>"""
+- <a href=https://t.me/dalesteyn18>Team Mas</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -34,7 +34,7 @@ Link : https://t.me/tutorialmas/3 """
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- Team Mas Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
