@@ -1,6 +1,7 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/masfilter8_bot>𝐌𝐨𝐯𝐢𝐞𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 - 𝐁𝐨𝐭 🔎</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 🔎 . 
+
 How to use this bot . Just 30 Seconds Video . Must Watch .
 Link : https://t.me/tutorialmas/3 """
     HELP_TXT = """𝙷𝙴𝚈 {}
