@@ -681,12 +681,10 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"Here is what i found for your query {search}
+        cap = f"Here is what i found for your query {search}"
         
-         Join <a href="https://t.me/Team_Mas_Linkz">Team MAS</a>
-         
-         Requested by: {message.from_user.mention}
-         Message Delete Automatically in 10Min"
+       
+
     if imdb and imdb.get('poster'):
         try:
             kdbotz = await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
