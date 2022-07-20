@@ -1,4 +1,5 @@
-#Kanged From @TroJanZheX
+# @KD_Botz X-kunal
+
 import asyncio
 import re
 import ast
@@ -25,6 +26,10 @@ logger.setLevel(logging.ERROR)
 
 BUTTONS = {}
 SPELL_CHECK = {}
+
+@Client.on_message(filters.private & filters.text & filters.incoming)
+async def pv_filter(client,message):
+    await auto_filter(client, message)
 
 @Client.on_message(filters.group & filters.text & ~filters.edited & filters.incoming)
 async def give_filter(client,message):
