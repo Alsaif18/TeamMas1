@@ -1,13 +1,12 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/masfilter8_bot>𝐌𝐨𝐯𝐢𝐞𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 - 𝐁𝐨𝐭 🔎</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 🔎 . 
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/teammas_bot_bot>𝐌𝐨𝐯𝐢𝐞𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 - 𝐁𝐨𝐭 🔎</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 , 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝙼𝙾𝚅𝙸𝙴𝚂 𝙽𝙰𝙼𝙴 🔎 .
 
-𝙷𝚘𝚠 𝚝𝚘 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝 ? 
-✯ 𝚂𝚃𝙴𝙿 1 : 𝙹𝚘𝚒𝚗 <a href=https://t.me/Team_Mas>𝐌𝐨𝐯𝐢𝐞𝐬 𝐆𝐫𝐨𝐮𝐩</a>
-✯ 𝚂𝚃𝙴𝙿 2 : 𝙲𝚕𝚒𝚌𝚔 " 𝚂𝚎𝚊𝚛𝚌𝚑 " 
-✯ 𝚂𝚃𝙴𝙿 3 : 𝚃𝚢𝚙𝚎 𝚈𝚘𝚞𝚛 𝙼𝚘𝚟𝚒𝚎𝚜 𝙽𝚊𝚖𝚎 . 
+𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 <a href=https://t.me/Team_Mas_Linkz>𝐓𝐄𝐀𝐌 𝐌𝐀𝐒</a>𝙲𝙷𝙰𝙽𝙽𝙴𝙻
+𝙰𝚗𝚢 𝚀𝚞𝚎𝚛𝚒𝚎𝚜 (𝚘𝚛) 𝙼𝚘𝚟𝚒𝚎𝚜 𝙼𝚒𝚜𝚜𝚒𝚗𝚐 
+𝙲𝚘𝚗𝚝𝚊𝚌𝚝 - <a href=https://t.me/TeamMas_Admin_Bot>𝐀𝐃𝐌𝐈𝐍</a>
 
-✯ 𝙸𝚏 𝚈𝚘𝚞'𝚛𝚎 𝚍𝚘𝚗𝚝 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 . 𝚆𝚊𝚝𝚌𝚑 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 😄 𝙻𝚒𝚗𝚔 : <a href=https://t.me/tutorialmas>𝐂𝐥𝐢𝐜𝐤 𝐭𝐨 𝐖𝐚𝐭𝐜𝐡 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨</a> """
+✯ <a href=https://t.me/tutorialmas>𝐂𝐥𝐢𝐜𝐤 𝐭𝐨 𝐖𝐚𝐭𝐜𝐡 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -28,7 +27,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. Team Mas should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -43,7 +42,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. Team Mas supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
