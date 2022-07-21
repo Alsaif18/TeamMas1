@@ -2,9 +2,9 @@ class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 , 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 <b>𝙼𝙾𝚅𝙸𝙴𝚂 𝙽𝙰𝙼𝙴</b> 🔎 .
 
-𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 <a href=https://t.me/Team_Mas_Linkz>𝐓𝐄𝐀𝐌 𝐌𝐀𝐒</a>𝙲𝙷𝙰𝙽𝙽𝙴𝙻
-𝙰𝚗𝚢 𝚀𝚞𝚎𝚛𝚒𝚎𝚜 (𝚘𝚛) 𝙼𝚘𝚟𝚒𝚎𝚜 𝙼𝚒𝚜𝚜𝚒𝚗𝚐 
-𝙲𝚘𝚗𝚝𝚊𝚌𝚝 - <a href=https://t.me/TeamMas_Admin_Bot>𝐀𝐃𝐌𝐈𝐍</a>
+✯ 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 <a href=https://t.me/Team_Mas_Linkz>𝐓𝐄𝐀𝐌 𝐌𝐀𝐒</a> 𝙲𝙷𝙰𝙽𝙽𝙴𝙻
+✯ 𝙰𝚗𝚢 𝚀𝚞𝚎𝚛𝚒𝚎𝚜 (𝚘𝚛) 𝙼𝚘𝚟𝚒𝚎𝚜 𝙼𝚒𝚜𝚜𝚒𝚗𝚐 
+© 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 - <a href=https://t.me/TeamMas_Admin_Bot>𝐀𝐃𝐌𝐈𝐍</a>
 
 ✯ <a href=https://t.me/tutorialmas>𝐂𝐥𝐢𝐜𝐤 𝐭𝐨 𝐖𝐚𝐭𝐜𝐡 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
